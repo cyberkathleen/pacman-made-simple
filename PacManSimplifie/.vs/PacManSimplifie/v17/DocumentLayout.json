@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|e:\\50-portfolio\\p_dev\\pacmansimplifie\\pacmansimplifie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\ghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\pacman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\pacmansimplifie\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44C00C2-FD5B-4161-89C8-65DC2B30F009}|PacManSimplifie\\PacManSimplifie.csproj|solutionrelative:pacmansimplifie\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Program.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Program.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Program.cs",
+              "RelativeToolTip": "PacManSimplifie\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAOYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Game.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Game.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Game.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Game.cs",
+              "RelativeToolTip": "PacManSimplifie\\Game.cs",
+              "ViewState": "AQIAAKEBAAAAAAAAAAAkwKsBAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pacman.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Pacman.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Pacman.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Pacman.cs",
+              "RelativeToolTip": "PacManSimplifie\\Pacman.cs",
+              "ViewState": "AQIAAMICAAAAAAAAAAAgwNcCAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ghost.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Ghost.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Ghost.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Ghost.cs",
+              "RelativeToolTip": "PacManSimplifie\\Ghost.cs",
+              "ViewState": "AQIAAKABAAAAAAAAAAAkwKoBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Map.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Map.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Map.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Map.cs",
+              "RelativeToolTip": "PacManSimplifie\\Map.cs",
+              "ViewState": "AQIAAJICAAAAAAAAAAAkwLkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Point.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Point.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Point.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Point.cs",
+              "RelativeToolTip": "PacManSimplifie\\Point.cs",
+              "ViewState": "AQIAADkBAAAAAAAAAAAgwF8BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Position.cs",
+              "DocumentMoniker": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Position.cs",
+              "RelativeDocumentMoniker": "PacManSimplifie\\Position.cs",
+              "ToolTip": "E:\\50-Portfolio\\P_Dev\\PacManSimplifie\\PacManSimplifie\\Position.cs",
+              "RelativeToolTip": "PacManSimplifie\\Position.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAA1wC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T09:11:22.207Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
