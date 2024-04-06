@@ -41,4 +41,4 @@ To embark on your Pac-Man adventure, ensure you have:
 
 ## 🤝 Co-creators
 
-- Salma Abdulkadir, Fatem-Zahra Abid, and Kathleen Lu for the initial design and devlopment of the game.
+- [Salma Abdulkadir](https://github.com/salabdulk), [Fatem-Zahra Abid](https://github.com/fatemzh), and [Kathleen Lu](https://github.com/cyberkathleen) for the initial design and development of the game.
